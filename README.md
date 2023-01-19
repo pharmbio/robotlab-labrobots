@@ -1,3 +1,7 @@
+# robotlab-labrobots moved to [pharmbio/robotlab](https://github.com/pharmbio/robotlab)
+
+Repo moved to [pharmbio/robotlab](https://github.com/pharmbio/robotlab)
+
 # robotlab-labrobots
 
 Web server to our LiCONiC incubator, LiCONiC fridge, and BioTek washer,
